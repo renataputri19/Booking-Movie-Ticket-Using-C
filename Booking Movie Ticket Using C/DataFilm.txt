@@ -1,0 +1,7 @@
+101;FAST & FURIOUS: HOBBS&SHAW;Action, Adventure;2 jam 16 menit;David Leitch;D 17+;Senin, 11 Jan 2021;14:45 WIB;40;35000
+102;RASUK 2;Horror;1 jam 35 menit;Rizal Mantovani;D 17+;Kamis, 07 Jan 2021;20:00 WIB;40;35000
+103;ANGEL HAS FALLEN;Action;2 jam 1 menit;Ric Roman Waugh;D 17+;Sabtu, 09 Jan 2021;17:45 WIB;40;35000
+104;IP MAN 4: THE FINALE;Action, Biography, Drama;1 jam 44 menit;Wilson Yip;D 17+;Minggu,10 Jan 2021;17:30 WIB;40;35000
+105;LINE OF DUTY;Action, Thriller;1 jam 39 menit;Steven C. Miller;D 17+;Jumat, 08 Jan 2021;20:15 WIB;40;35000
+106;Friends;Comedy;22 menit;David Crane dan Marta Kauffman;13+;19 Okt 2020;4.00 WIB;40;35000
+107;Dora;Comedy;2 jam;Fizqi;18+;31 Desember 2020;21.00 WIB;40;30000 
